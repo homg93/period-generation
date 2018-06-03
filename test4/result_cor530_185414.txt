@@ -1,0 +1,1875 @@
+cost: 0.06745781749486923
+test len: 780
+correct result_cnt: 466
+wrong result_cnt: 314
+result_cnt / len: 0.5974358974358974
+
+==================================
+cor_word_set: {'remember', 'i', 'so', 'cuz', "we'll", 'yeah', 'once', 'is', 'most', 'however', 'because', 'to', 'when', "we've", 'did', 'and', "they're", 'it', 'though', 'impact', 'now', 'first', "you're", 'these', 'or', 'from', "we're", 'where', 'the', 'maybe', 'we', 'whereas', "let's", 'what', 'which', 'a', "it's", "he's", 'well', 'but', 'if', 'like', 'all', 'you', 'okay', 'this', 'since'}
+==================================
+err_word_set: {'trustco', 'so', 'catalan', "we'll", 'deadline', 'yeah', 'transition', 'is', 'because', 'subject', 'recognition', 'they', 'rules', 'uses', 'smoothing', "they're", 'mentor', 'methods', 'forms', 'where', 'there', 'UNK', 'around', 'techniques', 'whereas', 'cool', 'not', 'a', 'well', "you'll", "that's", 'combination', 'strategy', 'just', 'teach', 'their', 'to', 'successfully', 'chomsky', 'got', 'though', 'properties', 'easily', 'on', 'or', 'verb', 'we', 'parser', 'in', 'for', 'using', 'modifying', 'interestingly', 'then', 'while', 'star', 'all', 'excited', 'also', 'this', 'writing', 'i', 'both', 'advice', 'nivre', 'that', 'of', 'today', 'possibilities', 'prepositional', 'and', 'it', 'why', 'now', 'these', 'f1', 'the', 'maybe', 'meeting', 'gives', 'with', 'sparse', 'what', 'brownback', 'which', 'slow', "it's", 'like', 'completely', 'your', 'cuz', 'done', 'at', 'decrease', 'attachment', 'use', "i'll", 'ambiguous', "we've", 'svd', 'arc', 'here', 'plus', 'constraints', "i've", 'approximation', 'toronto', 'sadly', 'but', 'if', 'effort', 'dependency', "don't", 'have', 'metric', 'you', 'okay'}
+==================================
+정답[0]: [0 1 0 0 0]
+예측[0]: [0 1 0 0 0]
+test_word_list[0]: ['project', 'and', 'you', 'have', 'to']
+
+정답[1]: [0 0 0 1 0]
+예측[1]: [0 0 0 1 0]
+test_word_list[1]: ['project', 'has', 'done', 'you', 'can']
+
+정답[4]: [0 0 0 1 0]
+예측[4]: [0 0 0 1 0]
+test_word_list[4]: ['not', 'very', 'UNK', 'so', 'the']
+
+정답[6]: [0 0 0 0 1]
+예측[6]: [0 0 0 0 1]
+test_word_list[6]: ['the', 'results', 'are', 'real', 'so']
+
+정답[11]: [0 1 0 0 0]
+예측[11]: [0 1 0 0 0]
+test_word_list[11]: ['do', 'and', 'if', 'you', 'have']
+
+정답[13]: [0 0 0 1 0]
+예측[13]: [0 0 0 1 0]
+test_word_list[13]: ['pretty', 'cool', 'project', 'so', 'you']
+
+정답[14]: [0 0 1 0 0]
+예측[14]: [0 0 1 0 0]
+test_word_list[14]: ['that', 'UNK', 'but', 'there', 'is']
+
+정답[15]: [0 1 0 0 0]
+예측[15]: [0 1 0 0 0]
+test_word_list[15]: ['set', 'all', 'right', 'so', 'now']
+
+정답[18]: [1 0 0 0 0]
+예측[18]: [1 0 0 0 0]
+test_word_list[18]: ['and', 'this', 'is', 'actually', 'i']
+
+정답[19]: [1 0 0 0 0]
+예측[19]: [1 0 0 0 0]
+test_word_list[19]: ['so', 'you', 'want', 'to', 'be']
+
+정답[21]: [0 0 0 0 1]
+예측[21]: [0 0 0 0 1]
+test_word_list[21]: ['to', 'define', 'your', 'dataset', 'and']
+
+정답[22]: [0 0 0 0 1]
+예측[22]: [0 0 0 0 1]
+test_word_list[22]: ['incredibly', 'time', 'UNK', 'problem', 'to']
+
+정답[27]: [0 0 1 0 0]
+예측[27]: [0 0 1 0 0]
+test_word_list[27]: ['of', 'complexity', 'however', 'it', 'is']
+
+정답[29]: [0 1 0 0 0]
+예측[29]: [0 1 0 0 0]
+test_word_list[29]: ['that', 'so', 'however', 'when', 'you']
+
+정답[33]: [0 1 0 0 0]
+예측[33]: [0 1 0 0 0]
+test_word_list[33]: ['page', 'and', 'then', 'they', 'realize']
+
+정답[34]: [0 1 0 0 0]
+예측[34]: [0 1 0 0 0]
+test_word_list[34]: ['that', 'and', 'before', 'you', 'know']
+
+정답[36]: [0 1 0 0 0]
+예측[36]: [0 1 0 0 0]
+test_word_list[36]: ['UNK', 'if', 'you', 'do', 'decide']
+
+정답[39]: [0 0 0 1 0]
+예측[39]: [0 0 0 1 0]
+test_word_list[39]: ['versions', 'of', 'it', 'maybe', 'you']
+
+정답[43]: [0 1 0 0 0]
+예측[43]: [0 1 0 0 0]
+test_word_list[43]: ['on', 'so', 'you', 'can', 'be']
+
+정답[46]: [1 0 0 0 0]
+예측[46]: [1 0 0 0 0]
+test_word_list[46]: ['all', 'right', 'so', 'then', 'you']
+
+정답[49]: [0 0 0 1 0]
+예측[49]: [0 0 0 1 0]
+test_word_list[49]: ['two', 'or', 'three', 'and', 'now']
+
+정답[51]: [0 0 0 1 0]
+예측[51]: [0 0 0 1 0]
+test_word_list[51]: ['three', 'star', 'UNK', 'so', 'this']
+
+정답[52]: [0 0 0 1 0]
+예측[52]: [0 0 0 1 0]
+test_word_list[52]: ['the', 'third', 'class', 'and', 'then']
+
+정답[53]: [0 1 0 0 0]
+예측[53]: [0 1 0 0 0]
+test_word_list[53]: ['quickly', 'and', 'then', 'all', 'you']
+
+정답[54]: [1 0 0 0 0]
+예측[54]: [1 0 0 0 0]
+test_word_list[54]: ['and', 'now', "let's", 'say', 'your']
+
+정답[59]: [1 0 0 0 0]
+예측[59]: [1 0 0 0 0]
+test_word_list[59]: ['so', 'in', 'this', 'case', 'you']
+
+정답[60]: [0 1 0 0 0]
+예측[60]: [0 1 0 0 0]
+test_word_list[60]: ['right', 'so', 'and', "we'll", 'go']
+
+정답[61]: [1 0 0 0 0]
+예측[61]: [1 0 0 0 0]
+test_word_list[61]: ['now', 'for', 'something', 'as', 'tricky']
+
+정답[62]: [0 0 0 0 1]
+예측[62]: [0 0 0 0 1]
+test_word_list[62]: ['is', 'the', 'final', 'answer', 'you']
+
+정답[63]: [0 1 0 0 0]
+예측[63]: [0 1 0 0 0]
+test_word_list[63]: ['sequence', 'and', 'there', 'are', 'a']
+
+정답[66]: [0 0 0 0 1]
+예측[66]: [0 0 0 0 1]
+test_word_list[66]: ['know', 'what', "you're", 'optimizing', 'so']
+
+정답[69]: [0 0 0 0 1]
+예측[69]: [0 0 0 0 1]
+test_word_list[69]: ['can', 'just', 'use', 'accuracy', 'and']
+
+정답[70]: [0 0 1 0 0]
+예측[70]: [0 0 1 0 0]
+test_word_list[70]: ["you're", 'optimizing', "it's", 'hard', 'to']
+
+정답[71]: [1 0 0 0 0]
+예측[71]: [1 0 0 0 0]
+test_word_list[71]: ['all', 'right', 'so', "let's", 'say']
+
+정답[72]: [0 0 1 0 0]
+예측[72]: [0 0 1 0 0]
+test_word_list[72]: ['your', 'dataset', 'and', "it's", 'also']
+
+정답[74]: [0 0 1 0 0]
+예측[74]: [0 0 1 0 0]
+test_word_list[74]: ['not', 'always', 'and', 'you', "don't"]
+
+정답[75]: [1 0 0 0 0]
+예측[75]: [1 0 0 0 0]
+test_word_list[75]: ['so', "let's", 'say', 'you', 'have']
+
+정답[77]: [0 0 0 1 0]
+예측[77]: [0 0 0 1 0]
+test_word_list[77]: ['various', 'other', 'terms', 'and', '10%']
+
+정답[78]: [0 1 0 0 0]
+예측[78]: [0 1 0 0 0]
+test_word_list[78]: ['split', 'and', 'so', 'the', 'final']
+
+정답[80]: [0 0 1 0 0]
+예측[80]: [0 0 1 0 0]
+test_word_list[80]: ['the', 'future', 'but', "it's", 'very']
+
+정답[82]: [0 0 0 1 0]
+예측[82]: [0 0 0 1 0]
+test_word_list[82]: ['might', 'make', 'mistakes', 'so', "let's"]
+
+정답[83]: [0 1 0 0 0]
+예측[83]: [0 1 0 0 0]
+test_word_list[83]: ['work', 'but', 'in', 'many', 'cases']
+
+정답[86]: [0 0 0 0 1]
+예측[86]: [0 0 0 0 1]
+test_word_list[86]: ['know', "there's", 'no', 'overlap', 'but']
+
+정답[87]: [0 1 0 0 0]
+예측[87]: [0 1 0 0 0]
+test_word_list[87]: ['here', 'and', 'then', 'the', 'random']
+
+정답[88]: [1 0 0 0 0]
+예측[88]: [1 0 0 0 0]
+test_word_list[88]: ['and', 'now', 'the', 'test', 'data']
+
+정답[89]: [1 0 0 0 0]
+예측[89]: [1 0 0 0 0]
+test_word_list[89]: ['cuz', 'if', "you're", 'depending', 'on']
+
+정답[90]: [0 0 0 1 0]
+예측[90]: [0 0 0 1 0]
+test_word_list[90]: ['an', 'UNK', 'story', 'and', 'now']
+
+정답[91]: [0 1 0 0 0]
+예측[91]: [0 1 0 0 0]
+test_word_list[91]: ['bit', 'and', 'you', 'have', 'one']
+
+정답[92]: [0 0 0 1 0]
+예측[92]: [0 0 0 1 0]
+test_word_list[92]: ['your', 'test', 'set', 'but', 'the']
+
+정답[93]: [0 1 0 0 0]
+예측[93]: [0 1 0 0 0]
+test_word_list[93]: ['same', 'so', 'now', 'you', 'have']
+
+정답[94]: [1 0 0 0 0]
+예측[94]: [1 0 0 0 0]
+test_word_list[94]: ['and', 'so', 'in', 'general', 'if']
+
+정답[96]: [0 0 0 0 1]
+예측[96]: [0 0 0 0 1]
+test_word_list[96]: ['you', 'get', 'UNK', 'f1', 'and']
+
+정답[97]: [0 0 0 0 1]
+예측[97]: [0 0 0 0 1]
+test_word_list[97]: ['with', 'your', 'training', 'data', "it's"]
+
+정답[100]: [0 0 1 0 0]
+예측[100]: [0 0 1 0 0]
+test_word_list[100]: ['dataset', 'yeah', 'so', 'if', 'we']
+
+정답[102]: [0 0 0 1 0]
+예측[102]: [0 0 0 1 0]
+test_word_list[102]: ['these', 'are', 'UNK', 'and', 'that']
+
+정답[104]: [0 0 1 0 0]
+예측[104]: [0 0 1 0 0]
+test_word_list[104]: ['over', 'time', 'and', 'you', 'wanna']
+
+정답[105]: [0 1 0 0 0]
+예측[105]: [0 1 0 0 0]
+test_word_list[105]: ['work', 'and', 'this', 'was', 'the']
+
+정답[107]: [0 0 1 0 0]
+예측[107]: [0 0 1 0 0]
+test_word_list[107]: ['for', 'your', 'you', 'could', 'do']
+
+정답[108]: [1 0 0 0 0]
+예측[108]: [1 0 0 0 0]
+test_word_list[108]: ['but', 'running', 'an', 'additional', 'experiment']
+
+정답[112]: [0 1 0 0 0]
+예측[112]: [0 1 0 0 0]
+test_word_list[112]: ['baseline', 'so', 'you', 'basically', 'wanna']
+
+정답[114]: [0 1 0 0 0]
+예측[114]: [0 1 0 0 0]
+test_word_list[114]: ['UNK', "let's", 'say', 'your', 'loss']
+
+정답[116]: [0 0 0 0 1]
+예측[116]: [0 0 0 0 1]
+test_word_list[116]: ['an', 'over', 'UNK', 'UNK', 'if']
+
+정답[117]: [1 0 0 0 0]
+예측[117]: [1 0 0 0 0]
+test_word_list[117]: ['but', 'if', 'your', 'training', 'loss']
+
+정답[118]: [0 0 0 1 0]
+예측[118]: [0 0 0 1 0]
+test_word_list[118]: ['your', 'development', 'split', 'and', 'then']
+
+정답[119]: [0 0 0 1 0]
+예측[119]: [0 0 0 1 0]
+test_word_list[119]: ['this', 'class', 'too', 'and', "it's"]
+
+정답[120]: [0 1 0 0 0]
+예측[120]: [0 1 0 0 0]
+test_word_list[120]: ['baseline', 'and', 'if', 'the', 'metrics']
+
+정답[122]: [0 1 0 0 0]
+예측[122]: [0 1 0 0 0]
+test_word_list[122]: ['world', 'and', 'then', 'maybe', 'you']
+
+정답[123]: [0 1 0 0 0]
+예측[123]: [0 1 0 0 0]
+test_word_list[123]: ['too', 'it', 'is', 'very', 'important']
+
+정답[124]: [0 0 0 1 0]
+예측[124]: [0 0 0 1 0]
+test_word_list[124]: ['of', 'a', 'model', 'you', 'want']
+
+정답[125]: [0 0 0 1 0]
+예측[125]: [0 0 0 1 0]
+test_word_list[125]: ['splitting', 'your', 'data', 'you', 'have']
+
+정답[126]: [0 1 0 0 0]
+예측[126]: [0 1 0 0 0]
+test_word_list[126]: ['metric', 'and', 'in', 'many', 'cases']
+
+정답[127]: [1 0 0 0 0]
+예측[127]: [1 0 0 0 0]
+test_word_list[127]: ['cuz', 'that', 'means', 'you', 'figured']
+
+정답[129]: [0 0 0 0 1]
+예측[129]: [0 0 0 0 1]
+test_word_list[129]: ['your', 'right', 'data', 'set', 'you']
+
+정답[130]: [1 0 0 0 0]
+예측[130]: [1 0 0 0 0]
+test_word_list[130]: ['so', 'try', 'to', 'get', 'to']
+
+정답[131]: [0 0 1 0 0]
+예측[131]: [0 0 1 0 0]
+test_word_list[131]: ['as', 'possible', 'cuz', 'that', 'is']
+
+정답[132]: [0 1 0 0 0]
+예측[132]: [0 1 0 0 0]
+test_word_list[132]: ['class', 'and', 'now', 'you', 'can']
+
+정답[135]: [0 1 0 0 0]
+예측[135]: [0 1 0 0 0]
+test_word_list[135]: ['well', 'and', 'then', 'we', 'might']
+
+정답[136]: [0 0 0 0 1]
+예측[136]: [0 0 0 0 1]
+test_word_list[136]: ['in', 'the', 'development', 'set', 'and']
+
+정답[138]: [0 0 0 0 1]
+예측[138]: [0 0 0 0 1]
+test_word_list[138]: ['is', 'kind', 'of', 'confusing', 'if']
+
+정답[139]: [0 0 0 1 0]
+예측[139]: [0 0 0 1 0]
+test_word_list[139]: ['through', 'the', 'project', 'and', "that's"]
+
+정답[140]: [0 0 0 1 0]
+예측[140]: [0 0 0 1 0]
+test_word_list[140]: ['that', 'we', 'UNK', 'all', 'right']
+
+정답[141]: [0 0 1 0 0]
+예측[141]: [0 0 1 0 0]
+test_word_list[141]: ['your', 'data', 'you', "can't", 'give']
+
+정답[142]: [0 1 0 0 0]
+예측[142]: [0 1 0 0 0]
+test_word_list[142]: ['ever', 'and', 'this', 'is', 'kind']
+
+정답[143]: [0 0 0 1 0]
+예측[143]: [0 0 0 1 0]
+test_word_list[143]: ['for', 'this', 'class', 'so', 'if']
+
+정답[144]: [1 0 0 0 0]
+예측[144]: [1 0 0 0 0]
+test_word_list[144]: ['once', 'you', 'have', 'a', 'metric']
+
+정답[145]: [0 0 1 0 0]
+예측[145]: [0 0 1 0 0]
+test_word_list[145]: ['data', 'set', 'we', 'wanted', 'you']
+
+정답[146]: [0 0 1 0 0]
+예측[146]: [0 0 1 0 0]
+test_word_list[146]: ['summary', 'statistics', "it's", 'always', 'good']
+
+정답[147]: [0 0 1 0 0]
+예측[147]: [0 0 1 0 0]
+test_word_list[147]: ['of', 'classes', 'you', 'want', 'to']
+
+정답[148]: [0 0 0 1 0]
+예측[148]: [0 0 0 1 0]
+test_word_list[148]: ['model', 'is', 'making', 'cuz', 'that']
+
+정답[151]: [0 0 1 0 0]
+예측[151]: [0 0 1 0 0]
+test_word_list[151]: ['are', 'making', 'and', 'then', 'we']
+
+정답[152]: [0 0 0 0 1]
+예측[152]: [0 0 0 0 1]
+test_word_list[152]: ['have', 'lots', 'of', 'choices', 'did']
+
+정답[155]: [0 1 0 0 0]
+예측[155]: [0 1 0 0 0]
+test_word_list[155]: ['make', 'and', "it's", 'really', 'good']
+
+정답[158]: [0 0 1 0 0]
+예측[158]: [0 0 1 0 0]
+test_word_list[158]: ['of', 'options', "we'll", 'talk', 'through']
+
+정답[159]: [0 0 1 0 0]
+예측[159]: [0 0 1 0 0]
+test_word_list[159]: ['the', 'class', 'so', 'now', 'another']
+
+정답[162]: [0 1 0 0 0]
+예측[162]: [0 1 0 0 0]
+test_word_list[162]: ['first', 'and', 'then', 'on', 'top']
+
+정답[163]: [1 0 0 0 0]
+예측[163]: [1 0 0 0 0]
+test_word_list[163]: ['and', 'now', 'you', 'can', 'gain']
+
+정답[168]: [0 0 1 0 0]
+예측[168]: [0 0 1 0 0]
+test_word_list[168]: ['iterate', 'quickly', "you're", 'like', 'maybe']
+
+정답[171]: [0 0 1 0 0]
+예측[171]: [0 0 1 0 0]
+test_word_list[171]: ['the', 'paragraph', 'and', 'then', 'do']
+
+정답[173]: [0 0 1 0 0]
+예측[173]: [0 0 1 0 0]
+test_word_list[173]: ['UNK', 'over', 'and', 'then', 'UNK']
+
+정답[174]: [1 0 0 0 0]
+예측[174]: [1 0 0 0 0]
+test_word_list[174]: ['and', 'so', 'here', 'are', 'a']
+
+정답[175]: [1 0 0 0 0]
+예측[175]: [1 0 0 0 0]
+test_word_list[175]: ['but', 'again', "we'll", 'post', 'the']
+
+정답[178]: [0 0 0 1 0]
+예측[178]: [0 0 0 1 0]
+test_word_list[178]: ['have', 'worked', 'on', 'all', 'right']
+
+정답[179]: [0 1 0 0 0]
+예측[179]: [0 1 0 0 0]
+test_word_list[179]: ['parsing', 'and', 'then', "you'll", 'learn']
+
+정답[181]: [1 0 0 0 0]
+예측[181]: [1 0 0 0 0]
+test_word_list[181]: ['so', "you're", 'in', 'for', 'a']
+
+정답[183]: [0 1 0 0 0]
+예측[183]: [0 1 0 0 0]
+test_word_list[183]: ['parsing', 'so', 'my', 'hope', 'today']
+
+정답[185]: [0 1 0 0 0]
+예측[185]: [0 1 0 0 0]
+test_word_list[185]: ['grammar', 'and', 'then', "it's", 'time']
+
+정답[186]: [0 0 1 0 0]
+예측[186]: [0 0 1 0 0]
+test_word_list[186]: ['dependency', 'parsing', 'and', 'then', "it's"]
+
+정답[188]: [0 1 0 0 0]
+예측[188]: [0 1 0 0 0]
+test_word_list[188]: ['ago', 'okay', 'so', 'for', 'general']
+
+정답[189]: [0 0 0 0 1]
+예측[189]: [0 0 0 0 1]
+test_word_list[189]: ['1', 'is', 'due', 'today', 'and']
+
+정답[194]: [0 0 1 0 0]
+예측[194]: [0 0 1 0 0]
+test_word_list[194]: ['to', 'go', 'and', 'so', "that'll"]
+
+정답[195]: [0 0 0 1 0]
+예측[195]: [0 0 0 1 0]
+test_word_list[195]: ['next', 'UNK', 'lecture', 'so', 'two']
+
+정답[198]: [0 0 0 0 1]
+예측[198]: [0 0 0 0 1]
+test_word_list[198]: ['an', 'UNK', 'to', 'tensorflow', 'so']
+
+정답[199]: [0 0 1 0 0]
+예측[199]: [0 0 1 0 0]
+test_word_list[199]: ['after', 'that', 'and', 'then', 'the']
+
+정답[203]: [0 0 0 0 1]
+예측[203]: [0 0 0 0 1]
+test_word_list[203]: ['over', 'the', 'squad', 'dataset', 'but']
+
+정답[204]: [0 0 0 1 0]
+예측[204]: [0 0 0 1 0]
+test_word_list[204]: ['out', 'for', 'that', 'but', 'if']
+
+정답[206]: [0 1 0 0 0]
+예측[206]: [0 1 0 0 0]
+test_word_list[206]: ['abstract', 'and', 'that', 'means', "it'd"]
+
+정답[207]: [1 0 0 0 0]
+예측[207]: [1 0 0 0 0]
+test_word_list[207]: ['i', 'know', 'some', 'of', 'you']
+
+정답[209]: [1 0 0 0 0]
+예측[209]: [1 0 0 0 0]
+test_word_list[209]: ['and', 'UNK', "there's", 'some', 'really']
+
+정답[211]: [0 1 0 0 0]
+예측[211]: [0 1 0 0 0]
+test_word_list[211]: ['do', 'and', 'so', 'danqi', 'kevin']
+
+정답[212]: [1 0 0 0 0]
+예측[212]: [1 0 0 0 0]
+test_word_list[212]: ['and', 'so', 'that', 'UNK', 'also']
+
+정답[215]: [0 0 1 0 0]
+예측[215]: [0 0 1 0 0]
+test_word_list[215]: ['second', 'assignment', 'if', 'any', 'of']
+
+정답[218]: [0 1 0 0 0]
+예측[218]: [0 1 0 0 0]
+test_word_list[218]: ['better', 'but', 'unfortunately', 'i', 'seem']
+
+정답[219]: [1 0 0 0 0]
+예측[219]: [1 0 0 0 0]
+test_word_list[219]: ['so', "i'm", 'still', 'looking', 'for']
+
+정답[220]: [0 0 0 0 1]
+예측[220]: [0 0 0 0 1]
+test_word_list[220]: ['feel', 'free', 'to', 'share', 'but']
+
+정답[222]: [0 0 1 0 0]
+예측[222]: [0 0 1 0 0]
+test_word_list[222]: ['of', 'things', 'all', 'right', 'so']
+
+정답[223]: [0 0 1 0 0]
+예측[223]: [0 0 1 0 0]
+test_word_list[223]: ['human', 'language', 'all', 'the', 'examples']
+
+정답[224]: [1 0 0 0 0]
+예측[224]: [1 0 0 0 0]
+test_word_list[224]: ['so', 'that', 'the', 'idea', 'is']
+
+정답[226]: [0 0 1 0 0]
+예측[226]: [0 0 1 0 0]
+test_word_list[226]: ['of', 'structure', 'we', 'have', 'an']
+
+정답[227]: [0 0 0 0 1]
+예측[227]: [0 0 0 0 1]
+test_word_list[227]: ['followed', 'by', 'a', 'noun', 'and']
+
+정답[230]: [0 0 0 1 0]
+예측[230]: [0 0 0 1 0]
+test_word_list[230]: ['something', 'like', 'that', 'and', 'so']
+
+정답[231]: [0 0 0 0 1]
+예측[231]: [0 0 0 0 1]
+test_word_list[231]: ['structure', 'of', 'human', 'languages', 'and']
+
+정답[232]: [0 0 1 0 0]
+예측[232]: [0 0 1 0 0]
+test_word_list[232]: ['structure', 'grammars', 'and', 'is', 'then']
+
+정답[233]: [1 0 0 0 0]
+예측[233]: [1 0 0 0 0]
+test_word_list[233]: ['i', 'know', 'that', 'way', 'back']
+
+정답[236]: [0 0 1 0 0]
+예측[236]: [0 0 1 0 0]
+test_word_list[236]: ['more', 'complicated', 'and', 'so', 'i']
+
+정답[237]: [0 0 0 0 1]
+예측[237]: [0 0 0 0 1]
+test_word_list[237]: ['by', 'another', 'noun', 'phrase', 'because']
+
+정답[240]: [0 0 1 0 0]
+예측[240]: [0 0 1 0 0]
+test_word_list[240]: ['a', 'UNK', 'so', 'then', 'i']
+
+정답[241]: [0 0 1 0 0]
+예측[241]: [0 0 1 0 0]
+test_word_list[241]: ['of', 'these', 'and', 'then', 'i']
+
+정답[242]: [0 0 0 1 0]
+예측[242]: [0 0 0 1 0]
+test_word_list[242]: ['the', 'UNK', 'dog', 'and', 'well']
+
+정답[243]: [0 1 0 0 0]
+예측[243]: [0 1 0 0 0]
+test_word_list[243]: ['phrase', 'and', 'so', 'i', 'can']
+
+정답[244]: [0 0 0 1 0]
+예측[244]: [0 0 0 1 0]
+test_word_list[244]: ['a', 'constituency', 'grammar', 'so', "that's"]
+
+정답[248]: [0 0 0 1 0]
+예측[248]: [0 0 0 1 0]
+test_word_list[248]: ['structure', 'of', 'sentences', 'so', 'there']
+
+정답[249]: [0 0 0 1 0]
+예측[249]: [0 0 0 1 0]
+test_word_list[249]: ['with', 'dependency', 'structure', 'is', 'that']
+
+정답[251]: [1 0 0 0 0]
+예측[251]: [1 0 0 0 0]
+test_word_list[251]: ['so', 'barking', 'dog', 'barking', 'is']
+
+정답[253]: [1 0 0 0 0]
+예측[253]: [1 0 0 0 0]
+test_word_list[253]: ['and', 'dog', 'by', 'the', 'door']
+
+정답[254]: [0 0 1 0 0]
+예측[254]: [0 0 1 0 0]
+test_word_list[254]: ['of', 'dog', 'and', "we're", 'putting']
+
+정답[257]: [0 0 0 1 0]
+예측[257]: [0 0 0 1 0]
+test_word_list[257]: ['of', 'ambiguous', 'sentences', 'a', 'lot']
+
+정답[258]: [0 0 0 1 0]
+예측[258]: [0 0 0 1 0]
+test_word_list[258]: ['terms', 'of', 'dependencies', 'so', 'do']
+
+정답[263]: [0 0 0 1 0]
+예측[263]: [0 0 0 1 0]
+test_word_list[263]: ['study', 'the', 'subject', 'and', "it's"]
+
+정답[264]: [0 0 0 1 0]
+예측[264]: [0 0 0 1 0]
+test_word_list[264]: ['argument', 'of', 'study', 'but', 'the']
+
+정답[265]: [0 0 0 1 0]
+예측[265]: [0 0 0 1 0]
+test_word_list[265]: ['the', 'from', 'space', 'you', 'saying']
+
+정답[266]: [0 0 1 0 0]
+예측[266]: [0 0 1 0 0]
+test_word_list[266]: ['one', 'right', 'but', '[laugh]', 'what']
+
+정답[267]: [0 0 0 0 1]
+예측[267]: [0 0 0 0 1]
+test_word_list[267]: ['the', 'UNK', 'of', 'whales', 'and']
+
+정답[268]: [0 0 1 0 0]
+예측[268]: [0 0 1 0 0]
+test_word_list[268]: ['is', 'modifying', 'and', 'so', 'thinking']
+
+정답[270]: [0 0 0 1 0]
+예측[270]: [0 0 0 1 0]
+test_word_list[270]: ['questions', 'of', 'interpretation', 'so', "here's"]
+
+정답[271]: [0 1 0 0 0]
+예측[271]: [0 1 0 0 0]
+test_word_list[271]: ['UNK', 'the', 'board', 'UNK', 'its']
+
+정답[272]: [0 1 0 0 0]
+예측[272]: [0 1 0 0 0]
+test_word_list[272]: ['meeting', 'and', 'as', "i've", 'hopefully']
+
+정답[273]: [0 0 0 0 1]
+예측[273]: [0 0 0 0 1]
+test_word_list[273]: ['as', 'subject', 'verb', 'object', 'the']
+
+정답[277]: [0 0 1 0 0]
+예측[277]: [0 0 1 0 0]
+test_word_list[277]: ['UNK', 'that', 'and', 'of', 'toronto']
+
+정답[279]: [0 1 0 0 0]
+예측[279]: [0 1 0 0 0]
+test_word_list[279]: ['it', 'so', "what's", 'for', 'UNK']
+
+정답[282]: [0 0 1 0 0]
+예측[282]: [0 0 1 0 0]
+test_word_list[282]: ['the', 'top', 'so', 'in', 'general']
+
+정답[284]: [0 0 0 1 0]
+예측[284]: [0 0 0 1 0]
+test_word_list[284]: ['or', 'the', 'verb', 'but', 'then']
+
+정답[286]: [1 0 0 0 0]
+예측[286]: [1 0 0 0 0]
+test_word_list[286]: ['and', 'then', 'we', 'get', 'to']
+
+정답[287]: [0 0 0 1 0]
+예측[287]: [0 0 0 1 0]
+test_word_list[287]: ['to', 'another', 'one', 'and', 'you']
+
+정답[288]: [0 1 0 0 0]
+예측[288]: [0 1 0 0 0]
+test_word_list[288]: ['constraint', 'so', 'once', "i've", 'had']
+
+정답[289]: [1 0 0 0 0]
+예측[289]: [1 0 0 0 0]
+test_word_list[289]: ['i', 'say', 'in', 'general', 'because']
+
+정답[290]: [0 0 0 1 0]
+예측[290]: [0 0 0 1 0]
+test_word_list[290]: ['about', 'that', 'later', 'but', 'most']
+
+정답[291]: [0 0 0 1 0]
+예측[291]: [0 0 0 1 0]
+test_word_list[291]: ['english', "it's", 'true', 'you', 'have']
+
+정답[292]: [0 0 0 1 0]
+예측[292]: [0 0 0 1 0]
+test_word_list[292]: ['a', 'nesting', 'relationship', 'but', 'i']
+
+정답[293]: [0 0 0 0 1]
+예측[293]: [0 0 0 0 1]
+test_word_list[293]: ['end', 'of', 'the', 'sentence', 'and']
+
+정답[295]: [0 0 0 0 1]
+예측[295]: [0 0 0 0 1]
+test_word_list[295]: ['you', 'get', 'catalan', 'series', 'so']
+
+정답[296]: [0 0 1 0 0]
+예측[296]: [0 0 1 0 0]
+test_word_list[296]: ['doing', 'UNK', 'yeah', 'so', 'another']
+
+정답[297]: [0 1 0 0 0]
+예측[297]: [0 1 0 0 0]
+test_word_list[297]: ['numbers', 'okay', 'so', 'human', 'languages']
+
+정답[299]: [0 0 1 0 0]
+예측[299]: [0 0 1 0 0]
+test_word_list[299]: ['these', 'dependencies', 'the', 'other', 'important']
+
+정답[300]: [0 0 0 1 0]
+예측[300]: [0 0 0 1 0]
+test_word_list[300]: ['form', 'of', 'treebanks', 'this', 'is']
+
+정답[301]: [0 0 0 0 1]
+예측[301]: [0 0 0 0 1]
+test_word_list[301]: ['small', 'to', 'see', 'exactly', 'but']
+
+정답[302]: [0 0 0 1 0]
+예측[302]: [0 0 0 1 0]
+test_word_list[302]: ["we've", 'got', 'sentences', 'these', 'are']
+
+정답[304]: [0 1 0 0 0]
+예측[304]: [0 1 0 0 0]
+test_word_list[304]: ['later', 'now', 'in', 'some', 'sense']
+
+정답[305]: [0 0 0 1 0]
+예측[305]: [0 0 0 1 0]
+test_word_list[305]: ['get', 'good', 'results', 'but', 'in']
+
+정답[306]: [0 1 0 0 0]
+예측[306]: [0 1 0 0 0]
+test_word_list[306]: ['right', 'cuz', 'for', 'the', 'whole']
+
+정답[307]: [1 0 0 0 0]
+예측[307]: [1 0 0 0 0]
+test_word_list[307]: ['where', 'here', "we're", 'no', 'longer']
+
+정답[309]: [1 0 0 0 0]
+예측[309]: [1 0 0 0 0]
+test_word_list[309]: ['and', "i'm", 'gonna', 'diagram', 'these']
+
+정답[311]: [1 0 0 0 0]
+예측[311]: [1 0 0 0 0]
+test_word_list[311]: ['and', 'if', 'you', 'think', 'about']
+
+정답[313]: [0 0 1 0 0]
+예측[313]: [0 0 1 0 0]
+test_word_list[313]: ['UNK', 'right', 'the', 'whole', 'point']
+
+정답[314]: [0 0 0 1 0]
+예측[314]: [0 0 0 1 0]
+test_word_list[314]: ['small', 'UNK', 'grammar', 'and', 'it']
+
+정답[315]: [0 0 1 0 0]
+예측[315]: [0 0 1 0 0]
+test_word_list[315]: ['of', 'sentences', 'and', 'so', 'UNK']
+
+정답[317]: [0 1 0 0 0]
+예측[317]: [0 1 0 0 0]
+test_word_list[317]: ['treebanks', 'and', 'it', 'ends', 'up']
+
+정답[318]: [0 0 1 0 0]
+예측[318]: [0 0 1 0 0]
+test_word_list[318]: ['of', 'things', 'and', 'i', 'sort']
+
+정답[319]: [0 0 0 0 1]
+예측[319]: [0 0 0 0 1]
+test_word_list[319]: ['of', 'their', 'advantages', 'here', 'first']
+
+정답[320]: [0 0 0 1 0]
+예측[320]: [0 0 0 1 0]
+test_word_list[320]: ['UNK', 'of', 'UNK', 'but', 'the']
+
+정답[323]: [0 0 0 0 1]
+예측[323]: [0 0 0 0 1]
+test_word_list[323]: ['linguistics', 'on', 'top', 'of', "it's"]
+
+정답[324]: [0 0 1 0 0]
+예측[324]: [0 0 1 0 0]
+test_word_list[324]: ['of', 'english', 'and', 'so', 'this']
+
+정답[326]: [0 0 0 0 1]
+예측[326]: [0 0 0 0 1]
+test_word_list[326]: ['information', "that's", 'super', 'important', 'and']
+
+정답[327]: [1 0 0 0 0]
+예측[327]: [1 0 0 0 0]
+test_word_list[327]: ['and', 'then', 'we', 'can', 'evaluate']
+
+정답[328]: [0 1 0 0 0]
+예측[328]: [0 1 0 0 0]
+test_word_list[328]: ['those', 'and', 'what', 'i', 'wanted']
+
+정답[329]: [1 0 0 0 0]
+예측[329]: [1 0 0 0 0]
+test_word_list[329]: ['so', "we've", 'sort', 'of', 'got']
+
+정답[335]: [0 0 1 0 0]
+예측[335]: [0 0 1 0 0]
+test_word_list[335]: ['UNK', 'time', 'but', 'this', 'is']
+
+정답[336]: [0 0 0 1 0]
+예측[336]: [0 0 0 1 0]
+test_word_list[336]: ['be', 'doing', 'today', 'and', "that's"]
+
+정답[337]: [0 1 0 0 0]
+예측[337]: [0 1 0 0 0]
+test_word_list[337]: ['choice', "it's", 'turned', 'out', 'that']
+
+정답[340]: [0 0 1 0 0]
+예측[340]: [0 0 1 0 0]
+test_word_list[340]: ['language', 'processing', 'whereas', 'if', 'you']
+
+정답[341]: [0 0 0 0 1]
+예측[341]: [0 0 0 0 1]
+test_word_list[341]: ['papers', 'on', 'dependency', 'grammars', 'and']
+
+정답[342]: [1 0 0 0 0]
+예측[342]: [1 0 0 0 0]
+test_word_list[342]: ['okay', 'so', 'what', 'does', 'a']
+
+정답[344]: [0 0 0 0 1]
+예측[344]: [0 0 0 0 1]
+test_word_list[344]: ['only', 'between', 'lexical', 'UNK', "they're"]
+
+정답[348]: [0 0 0 0 1]
+예측[348]: [0 0 0 0 1]
+test_word_list[348]: ['for', 'some', 'grammatical', 'relationship', 'so']
+
+정답[350]: [0 0 1 0 0]
+예측[350]: [0 0 1 0 0]
+test_word_list[350]: ['of', 'brownback', 'and', 'so', 'we']
+
+정답[351]: [0 0 0 1 0]
+예측[351]: [0 0 0 1 0]
+test_word_list[351]: ['UNK', 'dependency', 'grammars', 'and', 'interestingly']
+
+정답[353]: [0 0 0 0 1]
+예측[353]: [0 0 0 0 1]
+test_word_list[353]: ['in', 'great', 'detail', 'right', 'so']
+
+정답[354]: [0 0 1 0 0]
+예측[354]: [0 0 1 0 0]
+test_word_list[354]: ['some', 'decisions', 'so', 'what', "we're"]
+
+정답[355]: [0 0 1 0 0]
+예측[355]: [0 0 1 0 0]
+test_word_list[355]: ['more', 'terminology', 'so', 'we', 'have']
+
+정답[357]: [0 0 0 1 0]
+예측[357]: [0 0 0 1 0]
+test_word_list[357]: ['of', 'the', 'head', 'so', 'UNK']
+
+정답[358]: [0 0 0 1 0]
+예측[358]: [0 0 0 1 0]
+test_word_list[358]: ['modifier', 'of', 'submitted', 'and', 'so']
+
+정답[359]: [0 0 1 0 0]
+예측[359]: [0 0 1 0 0]
+test_word_list[359]: ['the', 'UNK', 'and', 'then', 'the']
+
+정답[361]: [0 0 0 0 1]
+예측[361]: [0 0 0 0 1]
+test_word_list[361]: ['arguments', 'of', 'the', 'dependence', 'and']
+
+정답[363]: [0 1 0 0 0]
+예측[363]: [0 1 0 0 0]
+test_word_list[363]: ['it', 'and', 'so', 'one', 'of']
+
+정답[364]: [0 0 0 1 0]
+예측[364]: [0 0 0 1 0]
+test_word_list[364]: ['any', 'particular', 'structure', 'so', 'in']
+
+정답[365]: [0 0 0 1 0]
+예측[365]: [0 0 0 1 0]
+test_word_list[365]: ['to', 'universal', 'dependencies', 'so', 'universal']
+
+정답[367]: [0 0 1 0 0]
+예측[367]: [0 0 1 0 0]
+test_word_list[367]: ['universal', 'dependencies', 'i', 'mean', "it's"]
+
+정답[368]: [0 1 0 0 0]
+예측[368]: [0 1 0 0 0]
+test_word_list[368]: ['languages', 'i', 'could', 'UNK', 'on']
+
+정답[370]: [0 0 0 1 0]
+예측[370]: [0 0 0 1 0]
+test_word_list[370]: ['about', 'that', 'now', 'but', 'i']
+
+정답[371]: [0 0 1 0 0]
+예측[371]: [0 0 1 0 0]
+test_word_list[371]: ['very', 'quickly', 'and', "we're", 'also']
+
+정답[376]: [1 0 0 0 0]
+예측[376]: [1 0 0 0 0]
+test_word_list[376]: ['so', 'this', 'sort', 'of', 'a']
+
+정답[378]: [0 1 0 0 0]
+예측[378]: [0 1 0 0 0]
+test_word_list[378]: ['by', 'and', 'that', 'was', 'sort']
+
+정답[383]: [0 0 0 1 0]
+예측[383]: [0 0 0 1 0]
+test_word_list[383]: ['of', 'the', 'world', 'the', 'famous']
+
+정답[384]: [0 0 1 0 0]
+예측[384]: [0 0 1 0 0]
+test_word_list[384]: ['first', 'class', 'and', 'he', 'only']
+
+정답[385]: [0 0 1 0 0]
+예측[385]: [0 0 1 0 0]
+test_word_list[385]: ['of', 'sentences', 'but', 'the', 'notation']
+
+정답[386]: [0 1 0 0 0]
+예측[386]: [0 1 0 0 0]
+test_word_list[386]: ['dependencies', 'yeah', 'so', 'the', 'question']
+
+정답[388]: [1 0 0 0 0]
+예측[388]: [1 0 0 0 0]
+test_word_list[388]: ['but', 'i', 'will', 'make', 'two']
+
+정답[389]: [0 0 0 1 0]
+예측[389]: [0 0 0 1 0]
+test_word_list[389]: ['relationships', 'between', 'words', 'whereas', 'the']
+
+정답[392]: [0 1 0 0 0]
+예측[392]: [0 1 0 0 0]
+test_word_list[392]: ['difference', 'but', 'it', 'kind', 'of']
+
+정답[395]: [1 0 0 0 0]
+예측[395]: [1 0 0 0 0]
+test_word_list[395]: ['but', 'nevertheless', 'the', 'kind', 'of']
+
+정답[396]: [0 0 1 0 0]
+예측[396]: [0 0 1 0 0]
+test_word_list[396]: ['quite', 'different', 'though', 'on', 'the']
+
+정답[397]: [0 0 0 0 1]
+예측[397]: [0 0 0 0 1]
+test_word_list[397]: ['of', 'relationships', 'between', 'them', 'but']
+
+정답[400]: [0 1 0 0 0]
+예측[400]: [0 1 0 0 0]
+test_word_list[400]: ['right', 'so', 'essentially', 'for', 'latin']
+
+정답[403]: [0 0 1 0 0]
+예측[403]: [0 0 1 0 0]
+test_word_list[403]: ['dependency', 'grammar', 'i', 'mean', 'by']
+
+정답[404]: [1 0 0 0 0]
+예측[404]: [1 0 0 0 0]
+test_word_list[404]: ['i', 'mean', 'it', "wasn't", 'actually']
+
+정답[407]: [0 0 0 0 1]
+예측[407]: [0 0 0 0 1]
+test_word_list[407]: ['much', 'UNK', 'word', 'order', 'and']
+
+정답[409]: [0 0 0 1 0]
+예측[409]: [0 0 0 1 0]
+test_word_list[409]: ['a', 'dependency', 'parser', 'so', 'UNK']
+
+정답[410]: [1 0 0 0 0]
+예측[410]: [1 0 0 0 0]
+test_word_list[410]: ['and', 'one', 'of', 'the', 'UNK']
+
+정답[411]: [0 0 1 0 0]
+예측[411]: [0 0 1 0 0]
+test_word_list[411]: ['papers', 'etc', 'and', 'he', 'actually']
+
+정답[412]: [0 0 0 0 1]
+예측[412]: [0 0 0 0 1]
+test_word_list[412]: ['dependency', 'parser', 'for', 'english', 'okay']
+
+정답[413]: [0 0 0 0 1]
+예측[413]: [0 0 0 0 1]
+test_word_list[413]: ['history', 'of', 'dependency', 'grammar', 'so']
+
+정답[416]: [0 0 0 1 0]
+예측[416]: [0 0 0 1 0]
+test_word_list[416]: ['UNK', 'UNK', 'them', 'but', 'there']
+
+정답[421]: [0 0 1 0 0]
+예측[421]: [0 0 1 0 0]
+test_word_list[421]: ['the', 'sentence', 'and', 'what', "you're"]
+
+정답[424]: [1 0 0 0 0]
+예측[424]: [1 0 0 0 0]
+test_word_list[424]: ['so', 'yeah', "it's", 'sort', 'of']
+
+정답[425]: [0 0 0 1 0]
+예측[425]: [0 0 0 1 0]
+test_word_list[425]: ['about', 'word', 'relationships', 'and', "that's"]
+
+정답[426]: [0 1 0 0 0]
+예측[426]: [0 1 0 0 0]
+test_word_list[426]: ['representations', 'so', 'actually', 'doing', 'things']
+
+정답[427]: [0 0 1 0 0]
+예측[427]: [0 0 1 0 0]
+test_word_list[427]: ['to', 'use', "we'll", 'want', 'to']
+
+정답[430]: [0 0 0 1 0]
+예측[430]: [0 0 0 1 0]
+test_word_list[430]: ['kind', 'of', 'UNK', 'most', 'of']
+
+정답[432]: [0 1 0 0 0]
+예측[432]: [0 1 0 0 0]
+test_word_list[432]: ['verb', "it's", 'UNK', 'for', 'many']
+
+정답[433]: [0 0 1 0 0]
+예측[433]: [0 0 1 0 0]
+test_word_list[433]: ['like', 'that', 'so', 'looking', 'at']
+
+정답[434]: [0 0 0 1 0]
+예측[434]: [0 0 0 1 0]
+test_word_list[434]: ['you', 'some', 'UNK', 'and', 'the']
+
+정답[437]: [0 0 0 0 1]
+예측[437]: [0 0 0 0 1]
+test_word_list[437]: ['a', 'lot', 'of', 'dependence', 'so']
+
+정답[438]: [0 0 0 1 0]
+예측[438]: [0 0 0 1 0]
+test_word_list[438]: ['hope', 'to', 'UNK', 'okay', 'yeah']
+
+정답[440]: [0 0 1 0 0]
+예측[440]: [0 0 1 0 0]
+test_word_list[440]: ['really', 'easy', 'so', "we're", 'just']
+
+정답[443]: [0 1 0 0 0]
+예측[443]: [0 1 0 0 0]
+test_word_list[443]: ['UNK', 'and', 'if', 'we', 'do']
+
+정답[444]: [1 0 0 0 0]
+예측[444]: [1 0 0 0 0]
+test_word_list[444]: ['and', 'normally', 'we', 'want', 'to']
+
+정답[445]: [0 1 0 0 0]
+예측[445]: [0 1 0 0 0]
+test_word_list[445]: ['tree', 'and', "there's", 'one', 'other']
+
+정답[448]: [1 0 0 0 0]
+예측[448]: [1 0 0 0 0]
+test_word_list[448]: ['so', 'that', 'they', 'have', 'that']
+
+정답[450]: [0 0 0 0 1]
+예측[450]: [0 0 0 0 1]
+test_word_list[450]: ['them', 'crossing', 'each', 'other', 'and']
+
+정답[451]: [1 0 0 0 0]
+예측[451]: [1 0 0 0 0]
+test_word_list[451]: ['and', 'if', 'a', 'dependency', 'tree']
+
+정답[452]: [0 0 0 0 1]
+예측[452]: [0 0 0 0 1]
+test_word_list[452]: ['of', 'a', 'nesting', 'relationship', 'but']
+
+정답[453]: [0 0 1 0 0]
+예측[453]: [0 0 1 0 0]
+test_word_list[453]: ['yet', 'crossing', 'and', 'this', 'sentence']
+
+정답[454]: [0 0 1 0 0]
+예측[454]: [0 0 1 0 0]
+test_word_list[454]: ['of', 'one', 'so', "i'll", 'give']
+
+정답[455]: [0 1 0 0 0]
+예측[455]: [0 1 0 0 0]
+test_word_list[455]: ['bootstrapping', 'so', 'something', 'that', 'you']
+
+정답[456]: [0 1 0 0 0]
+예측[456]: [0 1 0 0 0]
+test_word_list[456]: ['tomorrow', 'but', 'it', 'sounds', 'pretty']
+
+정답[457]: [0 1 0 0 0]
+예측[457]: [0 1 0 0 0]
+test_word_list[457]: ['bootstrapping', 'but', 'this', 'on', 'bootstrapping']
+
+정답[458]: [0 1 0 0 0]
+예측[458]: [0 1 0 0 0]
+test_word_list[458]: ['talk', 'and', 'so', "that's", 'referred']
+
+정답[459]: [0 0 1 0 0]
+예측[459]: [0 0 1 0 0]
+test_word_list[459]: ['right', 'UNK', 'and', 'so', 'when']
+
+정답[460]: [0 0 0 1 0]
+예측[460]: [0 0 0 1 0]
+test_word_list[460]: ['these', 'crossing', 'lines', 'and', 'that']
+
+정답[461]: [0 1 0 0 0]
+예측[461]: [0 1 0 0 0]
+test_word_list[461]: ['tree', 'so', 'UNK', 'it', 'is']
+
+정답[463]: [0 0 0 1 0]
+예측[463]: [0 0 0 1 0]
+test_word_list[463]: ['still', 'a', 'tree', "it's", 'only']
+
+정답[466]: [0 1 0 0 0]
+예측[466]: [0 1 0 0 0]
+test_word_list[466]: ['tree', 'so', 'given', 'how', "i've"]
+
+정답[469]: [0 0 0 1 0]
+예측[469]: [0 0 0 1 0]
+test_word_list[469]: ['when', "they're", 'UNK', 'and', 'obviously']
+
+정답[470]: [0 0 1 0 0]
+예측[470]: [0 0 1 0 0]
+test_word_list[470]: ['linear', 'order', 'but', 'as', "i've"]
+
+정답[471]: [0 0 0 1 0]
+예측[471]: [0 0 0 1 0]
+test_word_list[471]: ['to', 'the', 'UNK', 'yeah', 'so']
+
+정답[472]: [0 0 0 1 0]
+예측[472]: [0 0 0 1 0]
+test_word_list[472]: ['of', 'dependency', 'parsing', 'i', 'just']
+
+정답[473]: [1 0 0 0 0]
+예측[473]: [1 0 0 0 0]
+test_word_list[473]: ['so', 'one', 'very', 'prominent', 'way']
+
+정답[475]: [0 1 0 0 0]
+예측[475]: [0 1 0 0 0]
+test_word_list[475]: ['algorithms', 'and', "that's", 'actually', 'a']
+
+정답[476]: [0 0 1 0 0]
+예측[476]: [0 0 1 0 0]
+test_word_list[476]: ['doing', 'it', 'you', 'can', 'view']
+
+정답[477]: [0 0 0 0 1]
+예측[477]: [0 0 0 0 1]
+test_word_list[477]: ['a', 'constraint', 'UNK', 'problem', 'but']
+
+정답[479]: [1 0 0 0 0]
+예측[479]: [1 0 0 0 0]
+test_word_list[479]: ['so', 'one', 'way', 'of', 'thinking']
+
+정답[481]: [0 1 0 0 0]
+예측[481]: [0 1 0 0 0]
+test_word_list[481]: ['vectors', 'and', 'the', 'other', 'UNK']
+
+정답[482]: [0 1 0 0 0]
+예측[482]: [0 1 0 0 0]
+test_word_list[482]: ['classes', 'and', 'it', 'turns', 'out']
+
+정답[483]: [1 0 0 0 0]
+예측[483]: [1 0 0 0 0]
+test_word_list[483]: ['and', 'so', 'therefore', "that's", 'a']
+
+정답[484]: [0 0 0 1 0]
+예측[484]: [0 0 0 1 0]
+test_word_list[484]: ['in', 'assignment', 'two', 'and', "it's"]
+
+정답[487]: [0 0 0 0 1]
+예측[487]: [0 0 0 0 1]
+test_word_list[487]: ['the', 'other', 'methods', 'are', 'so']
+
+정답[488]: [0 1 0 0 0]
+예측[488]: [0 1 0 0 0]
+test_word_list[488]: ['method', 'so', "i'll", 'say', 'more']
+
+정답[491]: [1 0 0 0 0]
+예측[491]: [1 0 0 0 0]
+test_word_list[491]: ['so', 'for', "today's", 'research', 'highlight']
+
+정답[492]: [0 0 0 1 0]
+예측[492]: [0 0 0 1 0]
+test_word_list[492]: ['from', 'word', 'embeddings', 'and', "it's"]
+
+정답[494]: [0 1 0 0 0]
+예측[494]: [0 1 0 0 0]
+test_word_list[494]: ['vectors', 'and', "we've", 'learned', 'svd']
+
+정답[495]: [0 1 0 0 0]
+예측[495]: [0 1 0 0 0]
+test_word_list[495]: ['UNK', 'and', 'we', "haven't", 'really']
+
+정답[496]: [0 0 0 0 1]
+예측[496]: [0 0 0 0 1]
+test_word_list[496]: ['really', 'talked', 'about', 'UNK', 'but']
+
+정답[497]: [0 1 0 0 0]
+예측[497]: [0 1 0 0 0]
+test_word_list[497]: ['words', "we've", 'also', 'learned', 'neural']
+
+정답[498]: [0 0 0 1 0]
+예측[498]: [0 0 0 1 0]
+test_word_list[498]: ['experience', 'with', 'now', 'and', 'specifically']
+
+정답[500]: [0 1 0 0 0]
+예측[500]: [0 1 0 0 0]
+test_word_list[500]: ['model', 'and', 'the', 'conventional', 'UNK']
+
+정답[501]: [0 1 0 0 0]
+예측[501]: [0 1 0 0 0]
+test_word_list[501]: ['models', 'however', 'UNK', 'et', 'al']
+
+정답[502]: [0 1 0 0 0]
+예측[502]: [0 1 0 0 0]
+test_word_list[502]: ['themselves', 'and', 'so', 'essentially', 'what']
+
+정답[503]: [0 0 1 0 0]
+예측[503]: [0 0 1 0 0]
+test_word_list[503]: ['they', 'tried', 'and', 'a', 'lot']
+
+정답[504]: [0 0 1 0 0]
+예측[504]: [0 0 1 0 0]
+test_word_list[504]: ['as', 'skip-gram', 'so', 'if', 'you']
+
+정답[506]: [0 0 0 1 0]
+예측[506]: [0 0 0 1 0]
+test_word_list[506]: ['3', 'over', '4', 'but', 'it']
+
+정답[507]: [0 0 1 0 0]
+예측[507]: [0 0 1 0 0]
+test_word_list[507]: ['design', 'choice', 'and', 'these', 'can']
+
+정답[508]: [1 0 0 0 0]
+예측[508]: [1 0 0 0 0]
+test_word_list[508]: ['and', "i'll", 'go', 'over', 'those']
+
+정답[509]: [0 0 0 1 0]
+예측[509]: [0 0 0 1 0]
+test_word_list[509]: ['those', 'very', 'quickly', 'so', 'the']
+
+정답[510]: [0 0 0 1 0]
+예측[510]: [0 0 0 1 0]
+test_word_list[510]: ['UNK', 'et', 'al', 'impact', 'in']
+
+정답[511]: [0 0 0 0 1]
+예측[511]: [0 0 0 0 1]
+test_word_list[511]: ['3', 'over', '4', 'here', 'and']
+
+정답[513]: [1 0 0 0 0]
+예측[513]: [1 0 0 0 0]
+test_word_list[513]: ['and', 'they', 'also', 'propose', 'UNK']
+
+정답[514]: [0 0 1 0 0]
+예측[514]: [0 0 1 0 0]
+test_word_list[514]: ['of', 'this', 'but', 'this', 'is']
+
+정답[515]: [0 0 0 0 1]
+예측[515]: [0 0 0 0 1]
+test_word_list[515]: ['negative', 'samples', 'in', 'skip-gram', 'and']
+
+정답[516]: [0 1 0 0 0]
+예측[516]: [0 1 0 0 0]
+test_word_list[516]: ['total', 'and', "we've", 'described', 'one']
+
+정답[518]: [0 0 0 1 0]
+예측[518]: [0 0 0 1 0]
+test_word_list[518]: ['no', 'trend', 'here', 'so', 'what']
+
+정답[519]: [0 0 0 1 0]
+예측[519]: [0 0 0 1 0]
+test_word_list[519]: ['a', 'different', 'task', 'and', 'those']
+
+정답[520]: [1 0 0 0 0]
+예측[520]: [1 0 0 0 0]
+test_word_list[520]: ['and', 'all', 'of', 'these', 'methods']
+
+정답[521]: [0 0 0 1 0]
+예측[521]: [0 0 0 1 0]
+test_word_list[521]: ['for', 'the', 'performance', 'and', 'the']
+
+정답[522]: [1 0 0 0 0]
+예측[522]: [1 0 0 0 0]
+test_word_list[522]: ['so', 'in', 'effect', "they're", 'UNK']
+
+정답[523]: [0 0 0 0 1]
+예측[523]: [0 0 0 0 1]
+test_word_list[523]: ['to', 'the', 'count-based', 'models', 'however']
+
+정답[529]: [0 1 0 0 0]
+예측[529]: [0 1 0 0 0]
+test_word_list[529]: ['four', 'you', 'might', 'implement', 'the']
+
+정답[531]: [0 0 1 0 0]
+예측[531]: [0 0 1 0 0]
+test_word_list[531]: ['to', 'find', 'and', 'finally', 'my']
+
+정답[532]: [0 0 0 1 0]
+예측[532]: [0 0 0 1 0]
+test_word_list[532]: ['in', 'the', 'field', 'and', 'so']
+
+정답[534]: [0 0 1 0 0]
+예측[534]: [0 0 1 0 0]
+test_word_list[534]: ['dependency', 'parser', 'so', 'maybe', 'in']
+
+정답[537]: [1 0 0 0 0]
+예측[537]: [1 0 0 0 0]
+test_word_list[537]: ['okay', 'well', 'i', "won't", 'assume']
+
+정답[539]: [0 0 0 1 0]
+예측[539]: [0 0 0 1 0]
+test_word_list[539]: ['to', 'the', 'pictures', 'because', 'they']
+
+정답[542]: [0 0 0 0 1]
+예측[542]: [0 0 0 0 1]
+test_word_list[542]: ['transition', 'based', 'dependency', 'parsing', "he's"]
+
+정답[545]: [0 0 1 0 0]
+예측[545]: [0 0 1 0 0]
+test_word_list[545]: ['with', 'that', 'and', 'go', 'onto']
+
+정답[546]: [0 0 0 0 1]
+예측[546]: [0 0 0 0 1]
+test_word_list[546]: ['can', 'make', 'that', 'work', 'and']
+
+정답[547]: [0 1 0 0 0]
+예측[547]: [0 1 0 0 0]
+test_word_list[547]: ['well', 'so', 'and', 'then', 'sort']
+
+정답[548]: [0 0 0 1 0]
+예측[548]: [0 0 0 1 0]
+test_word_list[548]: ['of', 'doing', 'parsing', 'so', "it's"]
+
+정답[550]: [1 0 0 0 0]
+예측[550]: [1 0 0 0 0]
+test_word_list[550]: ['okay', 'so', "here's", 'some', 'more']
+
+정답[552]: [0 1 0 0 0]
+예측[552]: [0 1 0 0 0]
+test_word_list[552]: ['that', 'and', 'we', 'start', 'off']
+
+정답[553]: [0 0 1 0 0]
+예측[553]: [0 0 1 0 0]
+test_word_list[553]: ['root', 'symbol', 'okay', 'and', 'the']
+
+정답[554]: [0 0 0 1 0]
+예측[554]: [0 0 0 1 0]
+test_word_list[554]: ['towards', 'the', 'right', 'and', 'then']
+
+정답[555]: [0 0 0 1 0]
+예측[555]: [0 0 0 1 0]
+test_word_list[555]: ['as', 'the', 'buffer', 'and', 'the']
+
+정답[556]: [0 0 0 1 0]
+예측[556]: [0 0 0 1 0]
+test_word_list[556]: ['to', 'deal', 'with', 'and', 'so']
+
+정답[557]: [0 0 1 0 0]
+예측[557]: [0 0 1 0 0]
+test_word_list[557]: ['words', 'right', 'so', 'the', 'top']
+
+정답[558]: [0 0 0 0 1]
+예측[558]: [0 0 0 0 1]
+test_word_list[558]: ['UNK', 'point', 'between', 'them', 'okay']
+
+정답[561]: [1 0 0 0 0]
+예측[561]: [1 0 0 0 0]
+test_word_list[561]: ['all', 'we', 'do', 'when', 'we']
+
+정답[562]: [1 0 0 0 0]
+예측[562]: [1 0 0 0 0]
+test_word_list[562]: ['and', 'then', 'we', 'can', 'shift']
+
+정답[563]: [0 0 0 1 0]
+예측[563]: [0 0 0 1 0]
+test_word_list[563]: ['of', 'the', 'stack', 'remember', 'the']
+
+정답[564]: [0 0 0 1 0]
+예측[564]: [0 0 0 1 0]
+test_word_list[564]: ['to', 'the', 'right', 'the', 'buffer']
+
+정답[568]: [0 0 1 0 0]
+예측[568]: [0 0 1 0 0]
+test_word_list[568]: ['the', 'stack', 'so', 'i', 'is']
+
+정답[569]: [1 0 0 0 0]
+예측[569]: [1 0 0 0 0]
+test_word_list[569]: ['and', 'so', 'now', "we've", 'got']
+
+정답[571]: [0 1 0 0 0]
+예측[571]: [0 1 0 0 0]
+test_word_list[571]: ['it', 'so', 'the', 'next', 'thing']
+
+정답[572]: [0 0 0 1 0]
+예측[572]: [0 0 0 1 0]
+test_word_list[572]: ['on', 'the', 'stack', 'and', 'so']
+
+정답[573]: [0 0 0 0 1]
+예측[573]: [0 0 0 0 1]
+test_word_list[573]: ['stack', 'in', 'our', 'sentence', 'and']
+
+정답[574]: [0 0 0 0 1]
+예측[574]: [0 0 0 0 1]
+test_word_list[574]: ['root', 'ate', 'fish', 'okay', 'so']
+
+정답[576]: [0 0 0 1 0]
+예측[576]: [0 0 0 1 0]
+test_word_list[576]: ['on', 'the', 'stack', 'we', 'remove']
+
+정답[577]: [0 0 1 0 0]
+예측[577]: [0 0 1 0 0]
+test_word_list[577]: ['saying', 'that', 'so', 'we', 'right']
+
+정답[578]: [0 0 0 1 0]
+예측[578]: [0 0 0 1 0]
+test_word_list[578]: ['from', 'the', 'stack', 'we', 'add']
+
+정답[579]: [0 0 1 0 0]
+예측[579]: [0 0 1 0 0]
+test_word_list[579]: ['of', 'ate', 'and', 'then', 'we']
+
+정답[580]: [0 0 1 0 0]
+예측[580]: [0 0 1 0 0]
+test_word_list[580]: ['the', 'root', 'so', 'we', 'UNK']
+
+정답[581]: [0 0 0 1 0]
+예측[581]: [0 0 0 1 0]
+test_word_list[581]: ['dependent', 'of', 'root', 'so', 'at']
+
+정답[582]: [0 0 0 0 1]
+예측[582]: [0 0 0 0 1]
+test_word_list[582]: ['UNK', 'on', 'the', 'slide', 'but']
+
+정답[583]: [1 0 0 0 0]
+예측[583]: [1 0 0 0 0]
+test_word_list[583]: ['so', 'but', 'in', 'our', 'end']
+
+정답[584]: [0 1 0 0 0]
+예측[584]: [0 1 0 0 0]
+test_word_list[584]: ['buffer', 'and', "that's", 'the', 'good']
+
+정답[585]: [1 0 0 0 0]
+예측[585]: [1 0 0 0 0]
+test_word_list[585]: ['and', 'so', 'we', 'say', 'okay']
+
+정답[588]: [1 0 0 0 0]
+예측[588]: [1 0 0 0 0]
+test_word_list[588]: ['and', 'we', 'have', 'this', 'sort']
+
+정답[591]: [0 1 0 0 0]
+예측[591]: [0 1 0 0 0]
+test_word_list[591]: ['operation', 'so', 'this', 'is', 'sort']
+
+정답[592]: [0 0 1 0 0]
+예측[592]: [0 0 1 0 0]
+test_word_list[592]: ['other', 'side', 'and', 'so', 'we']
+
+정답[593]: [0 0 0 0 1]
+예측[593]: [0 0 0 0 1]
+test_word_list[593]: ['add', 'a', 'new', 'dependency', 'and']
+
+정답[594]: [0 1 0 0 0]
+예측[594]: [0 1 0 0 0]
+test_word_list[594]: ['buffer', 'and', 'so', "that's", 'sort']
+
+정답[598]: [0 0 0 0 1]
+예측[598]: [0 0 0 0 1]
+test_word_list[598]: ['that', 'works', 'pretty', 'well', 'so']
+
+정답[600]: [0 0 1 0 0]
+예측[600]: [0 0 1 0 0]
+test_word_list[600]: ['do', 'when', 'and', 'so', "that's"]
+
+정답[601]: [0 1 0 0 0]
+예측[601]: [0 1 0 0 0]
+test_word_list[601]: ['left', 'and', 'i', 'have', 'a']
+
+정답[604]: [0 0 1 0 0]
+예측[604]: [0 0 1 0 0]
+test_word_list[604]: ['already', 'made', 'and', 'which', 'one']
+
+정답[606]: [1 0 0 0 0]
+예측[606]: [1 0 0 0 0]
+test_word_list[606]: ['since', 'we', 'have', 'a', 'tree']
+
+정답[608]: [1 0 0 0 0]
+예측[608]: [1 0 0 0 0]
+test_word_list[608]: ['and', "it's", 'indeed', 'UNK', 'right']
+
+정답[609]: [0 0 0 0 1]
+예측[609]: [0 0 0 0 1]
+test_word_list[609]: ['you', 'the', 'right', 'structure', 'so']
+
+정답[611]: [0 1 0 0 0]
+예측[611]: [0 1 0 0 0]
+test_word_list[611]: ['that', 'so', 'in', 'the', 'early']
+
+정답[612]: [1 0 0 0 0]
+예측[612]: [1 0 0 0 0]
+test_word_list[612]: ['so', 'if', "you're", 'just', 'deciding']
+
+정답[614]: [0 0 1 0 0]
+예측[614]: [0 0 1 0 0]
+test_word_list[614]: ['left', 'maybe', 'but', 'something', 'i']
+
+정답[615]: [0 0 1 0 0]
+예측[615]: [0 0 1 0 0]
+test_word_list[615]: ['of', 'ate', 'i', 'said', 'the']
+
+정답[616]: [0 0 1 0 0]
+예측[616]: [0 0 1 0 0]
+test_word_list[616]: ['of', 'ate', 'and', 'so', 'if']
+
+정답[617]: [1 0 0 0 0]
+예측[617]: [1 0 0 0 0]
+test_word_list[617]: ['if', 'you', 'have', 'a', 'UNK']
+
+정답[619]: [0 1 0 0 0]
+예측[619]: [0 1 0 0 0]
+test_word_list[619]: ['dependencies', 'you', 'actually', 'end', 'up']
+
+정답[624]: [0 0 0 0 1]
+예측[624]: [0 0 0 0 1]
+test_word_list[624]: ['doing', 'UNK', 'dependency', 'trees', 'which']
+
+정답[625]: [0 0 0 0 1]
+예측[625]: [0 0 0 0 1]
+test_word_list[625]: ['easy', 'for', 'you', 'guys', 'so']
+
+정답[626]: [1 0 0 0 0]
+예측[626]: [1 0 0 0 0]
+test_word_list[626]: ['and', 'then', 'what', 'do', 'we']
+
+정답[627]: [1 0 0 0 0]
+예측[627]: [1 0 0 0 0]
+test_word_list[627]: ['and', 'then', 'what', 'do', 'we']
+
+정답[629]: [0 0 1 0 0]
+예측[629]: [0 0 1 0 0]
+test_word_list[629]: ['the', 'stack', 'what', 'was', 'the']
+
+정답[630]: [0 0 1 0 0]
+예측[630]: [0 0 1 0 0]
+test_word_list[630]: ['that', 'word', 'what', 'was', 'the']
+
+정답[633]: [0 0 0 1 0]
+예측[633]: [0 0 0 1 0]
+test_word_list[633]: ['bunch', 'of', 'words', "you're", 'looking']
+
+정답[634]: [0 0 0 1 0]
+예측[634]: [0 0 0 1 0]
+test_word_list[634]: ['part', 'of', 'speech', 'and', 'that']
+
+정답[635]: [0 0 0 1 0]
+예측[635]: [0 0 0 1 0]
+test_word_list[635]: ['bunch', 'of', 'features', 'which', 'are']
+
+정답[636]: [0 0 1 0 0]
+예측[636]: [0 0 1 0 0]
+test_word_list[636]: ['over', 'that', 'so', 'yeah', 'the']
+
+정답[637]: [0 1 0 0 0]
+예측[637]: [0 1 0 0 0]
+test_word_list[637]: ['speech', "we've", 'barely', 'talked', 'about']
+
+정답[640]: [1 0 0 0 0]
+예측[640]: [1 0 0 0 0]
+test_word_list[640]: ['though', 'there', 'has', 'been', 'other']
+
+정답[641]: [0 1 0 0 0]
+예측[641]: [0 1 0 0 0]
+test_word_list[641]: ['time', 'which', 'actually', 'has', 'some']
+
+정답[642]: [0 0 0 1 0]
+예측[642]: [0 0 0 1 0]
+test_word_list[642]: ['kind', 'of', 'explore', 'since', 'the']
+
+정답[645]: [0 0 0 1 0]
+예측[645]: [0 0 0 1 0]
+test_word_list[645]: ['ran', 'your', 'classifier', 'and', 'said']
+
+정답[646]: [0 1 0 0 0]
+예측[646]: [0 1 0 0 0]
+test_word_list[646]: ['word', 'and', 'you', 'went', 'along']
+
+정답[647]: [0 0 0 1 0]
+예측[647]: [0 0 0 1 0]
+test_word_list[647]: ['a', 'bit', 'better', 'and', 'the']
+
+정답[650]: [0 0 0 0 1]
+예측[650]: [0 0 0 0 1]
+test_word_list[650]: ['you', 'explore', 'different', 'UNK', 'and']
+
+정답[651]: [1 0 0 0 0]
+예측[651]: [1 0 0 0 0]
+test_word_list[651]: ['and', 'gets', 'a', 'UNK', 'bit']
+
+정답[652]: [0 0 0 1 0]
+예측[652]: [0 0 0 1 0]
+test_word_list[652]: ['your', 'performance', 'results', 'okay', 'but']
+
+정답[654]: [0 0 1 0 0]
+예측[654]: [0 0 1 0 0]
+test_word_list[654]: ['time', 'parsing', 'because', "you're", 'just']
+
+정답[655]: [0 0 0 0 1]
+예측[655]: [0 0 0 0 1]
+test_word_list[655]: ['no', 'matter', 'how', 'big', 'so']
+
+정답[657]: [0 0 0 1 0]
+예측[657]: [0 0 0 1 0]
+test_word_list[657]: ['goes', 'super', 'fast', 'and', 'so']
+
+정답[659]: [0 0 1 0 0]
+예측[659]: [0 0 1 0 0]
+test_word_list[659]: ['parses', 'possible', 'but', 'their', 'performance']
+
+정답[662]: [0 1 0 0 0]
+예측[662]: [0 1 0 0 0]
+test_word_list[662]: ['nets', 'okay', 'so', 'where', 'are']
+
+정답[664]: [0 0 0 1 0]
+예측[664]: [0 0 0 1 0]
+test_word_list[664]: ['speech', 'or', 'words', 'and', 'as']
+
+정답[666]: [0 0 1 0 0]
+예측[666]: [0 0 1 0 0]
+test_word_list[666]: ['example', 'below', 'so', 'the', 'classic']
+
+정답[667]: [0 0 0 1 0]
+예측[667]: [0 0 0 1 0]
+test_word_list[667]: ['of', 'these', 'features', 'like', 'top']
+
+정답[670]: [0 0 0 1 0]
+예측[670]: [0 0 0 1 0]
+test_word_list[670]: ['extremely', 'extremely', 'large', 'but', 'you']
+
+정답[671]: [1 0 0 0 0]
+예측[671]: [1 0 0 0 0]
+test_word_list[671]: ['so', "you're", 'building', 'these', 'huge']
+
+정답[672]: [0 0 1 0 0]
+예측[672]: [0 0 1 0 0]
+test_word_list[672]: ['sparse', 'features', 'and', 'commonly', 'you']
+
+정답[673]: [0 0 0 0 1]
+예측[673]: [0 0 0 0 1]
+test_word_list[673]: ['were', 'UNK', 'of', 'things', 'so']
+
+정답[674]: [0 0 0 1 0]
+예측[674]: [0 0 0 1 0]
+test_word_list[674]: ['stack', 'is', 'has', 'and', 'its']
+
+정답[675]: [0 1 0 0 0]
+예측[675]: [0 1 0 0 0]
+test_word_list[675]: ['verb', 'and', 'the', 'top', 'word']
+
+정답[679]: [0 0 1 0 0]
+예측[679]: [0 0 1 0 0]
+test_word_list[679]: ['quite', 'well', 'but', 'the', 'starting']
+
+정답[681]: [0 1 0 0 0]
+예측[681]: [0 1 0 0 0]
+test_word_list[681]: ['that', 'and', "we'll", 'go', 'on']
+
+정답[682]: [0 0 0 1 0]
+예측[682]: [0 0 0 1 0]
+test_word_list[682]: ['just', 'a', 'minute', 'but', 'before']
+
+정답[684]: [0 0 1 0 0]
+예측[684]: [0 0 1 0 0]
+test_word_list[684]: ['very', 'easy', 'cuz', 'since', 'for']
+
+정답[687]: [0 0 0 0 1]
+예측[687]: [0 0 0 0 1]
+test_word_list[687]: ['often', 'we', 'are', 'right', 'and']
+
+정답[689]: [1 0 0 0 0]
+예측[689]: [1 0 0 0 0]
+test_word_list[689]: ['and', "that's", 'often', 'referred', 'to']
+
+정답[690]: [0 0 1 0 0]
+예측[690]: [0 0 1 0 0]
+test_word_list[690]: ['unlabeled', 'accuracy', 'or', 'we', 'can']
+
+정답[691]: [0 0 1 0 0]
+예측[691]: [0 0 1 0 0]
+test_word_list[691]: ['the', 'labels', 'and', 'say', "you're"]
+
+정답[692]: [1 0 0 0 0]
+예측[692]: [1 0 0 0 0]
+test_word_list[692]: ['so', 'the', 'question', 'is', "don't"]
+
+정답[693]: [1 0 0 0 0]
+예측[693]: [1 0 0 0 0]
+test_word_list[693]: ['because', 'yes', 'one', 'decision', 'will']
+
+정답[694]: [0 1 0 0 0]
+예측[694]: [0 1 0 0 0]
+test_word_list[694]: ['bad', 'because', 'even', 'if', 'you']
+
+정답[696]: [0 1 0 0 0]
+예측[696]: [0 1 0 0 0]
+test_word_list[696]: ['phrase', 'and', 'i', 'mean', 'actually']
+
+정답[698]: [1 0 0 0 0]
+예측[698]: [1 0 0 0 0]
+test_word_list[698]: ['okay', "i'll", 'skip', 'on', 'to']
+
+정답[699]: [0 0 0 1 0]
+예측[699]: [0 0 0 1 0]
+test_word_list[699]: ['to', 'neural', 'ones', 'okay', 'so']
+
+정답[700]: [0 1 0 0 0]
+예측[700]: [0 1 0 0 0]
+test_word_list[700]: ['features', 'but', 'nevertheless', 'there', 'was']
+
+정답[701]: [0 1 0 0 0]
+예측[701]: [0 1 0 0 0]
+test_word_list[701]: ['that', 'so', 'problem', 'UNK', 'is']
+
+정답[704]: [0 0 0 0 1]
+예측[704]: [0 0 0 0 1]
+test_word_list[704]: ['happens', 'in', 'different', 'configurations', 'you']
+
+정답[705]: [0 0 0 1 0]
+예측[705]: [0 0 0 1 0]
+test_word_list[705]: ['for', 'the', 'best', 'now', 'it']
+
+정답[706]: [0 0 0 1 0]
+예측[706]: [0 0 0 1 0]
+test_word_list[706]: ['works', 'pretty', 'well', 'but', 'nevertheless']
+
+정답[707]: [0 0 1 0 0]
+예측[707]: [0 0 1 0 0]
+test_word_list[707]: ['from', 'UNK', 'okay', 'the', 'second']
+
+정답[712]: [0 0 0 1 0]
+예측[712]: [0 0 0 1 0]
+test_word_list[712]: ['little', 'bit', 'surprising', 'it', 'turned']
+
+정답[715]: [0 0 1 0 0]
+예측[715]: [0 0 1 0 0]
+test_word_list[715]: ['really', 'fast', 'what', 'these', 'parsers']
+
+정답[717]: [1 0 0 0 0]
+예측[717]: [1 0 0 0 0]
+test_word_list[717]: ['and', 'all', 'the', 'time', 'is']
+
+정답[718]: [0 0 1 0 0]
+예측[718]: [0 0 1 0 0]
+test_word_list[718]: ['a', 'ton', 'so', 'in', 'a']
+
+정답[721]: [0 0 0 0 1]
+예측[721]: [0 0 0 0 1]
+test_word_list[721]: ['two', 'of', 'the', 'assignment', 'okay']
+
+정답[722]: [0 0 0 1 0]
+예측[722]: [0 0 0 1 0]
+test_word_list[722]: ['works', 'really', 'well', 'so', 'this']
+
+정답[723]: [0 0 0 1 0]
+예측[723]: [0 0 0 1 0]
+test_word_list[723]: ['was', 'really', 'fast', 'when', 'i']
+
+정답[724]: [0 0 0 0 1]
+예측[724]: [0 0 0 0 1]
+test_word_list[724]: ['some', 'contrast', 'in', 'UNK', 'so']
+
+정답[725]: [0 0 0 0 1]
+예측[725]: [0 0 0 0 1]
+test_word_list[725]: ['the', 'graph', 'base', 'parsers', 'so']
+
+정답[726]: [0 1 0 0 0]
+예측[726]: [0 1 0 0 0]
+test_word_list[726]: ['slower', 'so', 'if', 'you', "didn't"]
+
+정답[727]: [0 0 1 0 0]
+예측[727]: [0 0 1 0 0]
+test_word_list[727]: ['use', 'them', 'but', 'if', 'you']
+
+정답[729]: [0 0 0 0 1]
+예측[729]: [0 0 0 0 1]
+test_word_list[729]: ['get', 'much', 'better', 'accuracy', 'we']
+
+정답[730]: [0 0 0 0 1]
+예측[730]: [0 0 0 0 1]
+test_word_list[730]: ['parsers', 'at', 'that', 'time', 'and']
+
+정답[732]: [0 1 0 0 0]
+예측[732]: [0 1 0 0 0]
+test_word_list[732]: ['story', 'okay', 'so', 'how', 'did']
+
+정답[733]: [0 0 0 0 1]
+예측[733]: [0 0 0 0 1]
+test_word_list[733]: ['did', 'we', 'do', 'it', 'well']
+
+정답[734]: [0 0 0 1 0]
+예측[734]: [0 0 0 1 0]
+test_word_list[734]: ['was', 'distributed', 'representation', 'so', "we're"]
+
+정답[735]: [0 0 1 0 0]
+예측[735]: [0 0 1 0 0]
+test_word_list[735]: ['of', 'words', 'so', 'similar', 'words']
+
+정답[736]: [1 0 0 0 0]
+예측[736]: [1 0 0 0 0]
+test_word_list[736]: ["we're", 'also', 'going', 'to', 'use']
+
+정답[737]: [0 0 1 0 0]
+예측[737]: [0 0 1 0 0]
+test_word_list[737]: ['dependency', 'labels', 'and', 'we', 'also']
+
+정답[739]: [0 0 0 1 0]
+예측[739]: [0 0 0 1 0]
+test_word_list[739]: ['related', 'than', 'others', 'so', 'if']
+
+정답[740]: [0 1 0 0 0]
+예측[740]: [0 1 0 0 0]
+test_word_list[740]: ['those', 'so', 'now', 'we', 'have']
+
+정답[745]: [0 0 0 1 0]
+예측[745]: [0 0 0 1 0]
+test_word_list[745]: ["we've", 'talked', 'about', 'and', 'so']
+
+정답[750]: [1 0 0 0 0]
+예측[750]: [1 0 0 0 0]
+test_word_list[750]: ['so', "i'm", 'using', 'previous', 'decisions']
+
+정답[751]: [1 0 0 0 0]
+예측[751]: [1 0 0 0 0]
+test_word_list[751]: ['okay', 'so', 'how', 'do', 'i']
+
+정답[753]: [0 0 0 0 1]
+예측[753]: [0 0 0 0 1]
+test_word_list[753]: ['guys', 'are', 'gonna', 'build', 'from']
+
+정답[754]: [0 0 0 0 1]
+예측[754]: [0 0 0 0 1]
+test_word_list[754]: ['things', 'out', 'of', 'it', 'i']
+
+정답[755]: [0 1 0 0 0]
+예측[755]: [0 1 0 0 0]
+test_word_list[755]: ['layer', 'i', 'then', 'run', 'that']
+
+정답[756]: [1 0 0 0 0]
+예측[756]: [1 0 0 0 0]
+test_word_list[756]: ['and', 'of', 'course', 'i', "don't"]
+
+정답[757]: [1 0 0 0 0]
+예측[757]: [1 0 0 0 0]
+test_word_list[757]: ['so', 'what', "i'm", 'gonna', 'be']
+
+정답[758]: [0 0 1 0 0]
+예측[758]: [0 0 1 0 0]
+test_word_list[758]: ['learn', 'things', 'and', 'this', 'is']
+
+정답[760]: [0 1 0 0 0]
+예측[760]: [0 1 0 0 0]
+test_word_list[760]: ['it', 'so', 'non-linearities', "we've", 'mentioned']
+
+정답[761]: [0 0 0 1 0]
+예측[761]: [0 0 0 1 0]
+test_word_list[761]: ['a', 'probability', 'distribution', 'and', "that's"]
+
+정답[764]: [0 0 1 0 0]
+예측[764]: [0 0 1 0 0]
+test_word_list[764]: ['some', 'non-linearity', 'we', 'can', 'sorta']
+
+정답[767]: [0 1 0 0 0]
+예측[767]: [0 1 0 0 0]
+test_word_list[767]: ['right', 'if', 'you', 'just', 'have']
+
+정답[768]: [0 0 0 1 0]
+예측[768]: [0 0 0 1 0]
+test_word_list[768]: ['an', 'affine', 'transformation', 'so', 'deep']
+
+정답[771]: [1 0 0 0 0]
+예측[771]: [1 0 0 0 0]
+test_word_list[771]: ['but', 'if', 'you', 'sort', 'of']
+
+정답[772]: [1 0 0 0 0]
+예측[772]: [1 0 0 0 0]
+test_word_list[772]: ['and', 'so', 'tanh', 'has', 'the']
+
+정답[775]: [0 0 0 0 1]
+예측[775]: [0 0 0 0 1]
+test_word_list[775]: ['this', 'linear', 'UNK', 'layer', 'and']
+
+정답[776]: [0 0 0 1 0]
+예측[776]: [0 0 0 1 0]
+test_word_list[776]: ['kind', 'of', 'UNK', "they're", 'not']
+
+정답[779]: [0 0 1 0 0]
+예측[779]: [0 0 1 0 0]
+test_word_list[779]: ['of', 'crazy', 'i', "couldn't", 'really']
+
